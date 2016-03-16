@@ -1,7 +1,7 @@
 {
   "name": "jquery-ui-import",
   "description": "reference jquery ui widget,components and interactions using html imports",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "jquery-ui-import.html",
   "authors": [
     "S. Francis"

@@ -1,6 +1,6 @@
 # JQUERY-UI-IMPORT
 
-Reference the jquery library using html imports.
+Reference jquery ui widget,components and interactions using html imports
 
 
 
